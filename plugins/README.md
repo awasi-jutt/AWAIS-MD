@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO AWAIS-MD-V1 PLUGINS LIST CREATED BY AWAIS 610***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
