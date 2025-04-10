@@ -20,7 +20,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+AWAIS-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+AWAIS+INXIDE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=AWAIS-MD&pause=1000&width=435&lines=AWAIS-MD+LATEST+WHATSAPP+BOT)](https://git.io/typing-svg" alt="Typing SVG" /></a>
   </p>
   
 --- 
