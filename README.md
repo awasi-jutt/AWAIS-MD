@@ -20,7 +20,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=AWAIS-MD&pause=1000&width=435&lines=AWAIS-MD+LATEST+WHATSAPP+BOT)](https://git.io/typing-svg" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=AWAIS-MD&pause=1000&width=435&lines=AWAIS-MD+LATEST+WHATSAPP+BOT" alt="Typing SVG" /></a>
   </p>
   
 --- 
