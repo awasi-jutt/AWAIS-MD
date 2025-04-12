@@ -1,0 +1,7 @@
+FROM node:lts-buster
+RUN git clone https://github.com/Awais-star-a11y/AWAIS-MD-v3 /root/xIKRATOSx
+WORKDIR /root/xIKRATOSx
+RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+COPY . .
+EXPOSE 9090
+CMD ["npm", "start"]
