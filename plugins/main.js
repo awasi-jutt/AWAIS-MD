@@ -212,7 +212,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://s31.aconvert.com/convert/p3r68-cdx67/k8u2f-g4m6q.mp3' },
+            audio: { url: 'https://github.com/awasi-jutt/data/raw/refs/heads/main/WELCOME_TO_AWAIS_MD_mp3_V1.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
