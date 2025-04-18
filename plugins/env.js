@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg' }, // Image URL
+                image: { url: 'https://qu.ax/FfTXB.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
