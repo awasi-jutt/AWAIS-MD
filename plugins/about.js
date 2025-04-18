@@ -41,7 +41,7 @@ let about = `
 *•────────────•⟢*
 `
 
-await conn.sendMessage(from,{image:{url:`https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg`},caption:about,
+await conn.sendMessage(from,{image:{url:`https://qu.ax/FfTXB.jpg`},caption:about,
                              contextInfo: {
     mentionedJid: [m.sender],
     forwardingScore: 999,
