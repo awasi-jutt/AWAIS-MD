@@ -40,7 +40,7 @@ title: 'AWAIS MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/awasi-jutt/AWAIS-MD" ,
-thumbnailUrl: "https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg" ,
+thumbnailUrl: "https://qu.ax/FfTXB.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
