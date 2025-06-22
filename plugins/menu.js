@@ -39,6 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• .ᴏᴛʜᴇʀᴍᴇɴᴜ
 ┃◈┃• .ʀᴇᴘᴏ
 ┃◈┃• .ʟᴏɢᴏ<ᴛᴇxᴛ>
+┃◈┃• .ᴘʀɪᴠᴀᴄʏᴍᴇɴᴜ
 ┃◈┃• .ʙᴜɢᴍᴇɴᴜ
 ┃◈┃• .ᴀɴᴛɪᴅᴇʟ <ꜰᴏʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴍᴇꜱᴇɢᴇ>
 ┃◈└───────────┈⊷
@@ -48,7 +49,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: {url: config.ALIVE_IMG},
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -56,7 +57,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -66,7 +67,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/awasi-jutt/data/raw/refs/heads/main/WELCOME_TO_AWAIS_MD_mp3_V1.mp3' },
+            audio: { url: 'https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/VID-20250118-WA0022.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
@@ -118,7 +119,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -126,7 +127,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -193,7 +194,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -201,7 +202,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -249,7 +250,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -257,7 +258,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -305,7 +306,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -313,7 +314,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -356,7 +357,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -364,7 +365,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -415,7 +416,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -423,7 +424,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -464,7 +465,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -472,7 +473,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -517,7 +518,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -525,7 +526,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -567,7 +568,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -575,7 +576,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: 'AWAIS MD',
                         serverMessageId: 143
                     }
                 }
@@ -603,13 +604,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━〔 *𝐁𝐔𝐆 𝐌𝐄𝐍𝐔* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• 𝑪𝑹𝑨𝑺𝑯(+9214****)
-┃◈┃• 𝑿𝑫(+9214****)
-┃◈┃• 𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+92314****)
+┃◈┃• 𝑪𝑹𝑨𝑺𝑯(+9218****)
+┃◈┃• 𝑿𝑫(+9218****)
+┃◈┃• 𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+92318****)
 ┃◈┃• 𝑻𝑬𝑴𝑷𝑩𝑨𝑵(+92*****)
 ┃◈┃• 𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┃◈┃• 𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑼𝑺𝑬 𝑻𝑯𝑰𝑺 𝑪𝑴𝑫 𝑰𝑵 𝑮𝑪)
-┃◈┃• 𝑩𝑼𝑮(+9214******)
+┃◈┃• 𝑩𝑼𝑮(+9218******)
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.CAPTION}`;
@@ -617,7 +618,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://qu.ax/FfTXB.jpg` },
+                image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -625,7 +626,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363400799485163@newsletter',
-                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒-𝗝𝐔𝐓𝐓⁶¹⁰',
+                        newsletterName: '•𝐀𝐖𝐀𝐈𝐒 𝗝𝐔𝐓𝐓⁶¹⁰',
                         serverMessageId: 143
                     }
                 }
