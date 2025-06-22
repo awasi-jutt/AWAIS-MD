@@ -67,7 +67,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/VID-20250118-WA0022.mp3' },
+            audio: { url: 'https://github.com/awasi-jutt/data/raw/refs/heads/WELCOME_TO_AWAIS_MD_mp3_V1.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
