@@ -19,12 +19,29 @@
       "value": "https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg"
     }, 
     
+    "OWNER_NUMBER": {
+      "description": "BOT OWNER NUMBER",
+      "required": false,
+      "value": "9231463"
+    },
+    
+    "OWNER_NAME": {
+      "description": "BOT OWNER NAME",
+      "required": false,
+      "value": "AWAISXD"
+    }, 
+    
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
       "value": "•𝐀𝐖𝐀𝐈𝐒 𝗝𝐔𝐓𝐓⁶¹⁰"
     },
     
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
+    }, 
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
@@ -119,16 +136,10 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "•𝐀𝐖𝐀𝐈𝐒 𝗝𝐔𝐓𝐓⁶¹⁰"
+      "value": "ᴀᴡᴀɪs ᴍᴅ"
     }, 
 
-    "HEART_REACT": {
-      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
-      "required": true,
-      "value": "false"
-    }, 
-
-    "READ_MESSAGE": {
+      "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
       "value": "false"
@@ -144,19 +155,7 @@
       "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒂𝒘𝒂𝒊𝒔 𝒎𝒅"
     },    
 
-    "CUSTOM_REACT_EMOJIS": {
-      "description": "set customs emojis that bot will react.",
-      "required": true,
-      "value": "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍"
-    },
-    
-    "CUSTOM_REACT": {
-      "description": "customs reaction emojis that bot will react.",
-      "required": true,
-      "value": "false"
-    },
-
-    "AUTHOR": {
+      "AUTHOR": {
       "description": "stickerpack author name",
       "required": true,
       "value": "AWAIS MD"
