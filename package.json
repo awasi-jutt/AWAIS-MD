@@ -1,7 +1,7 @@
 {
-  "name": "AWAIS-MD",
+  "name": "AWAIS-MD-V3",
   "version": "4.0.0",
-  "description": "A WHATSAPP BOT CREATED BY AWAISMD",
+  "description": "A WHATSAPP BOT CREATED BY AWAISXD",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name AWAIS-MD",
@@ -9,7 +9,7 @@
     "restart": "pm2 restart AWAIS-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.7.18",
+    "@whiskeysockets/baileys": "github:gatanina-li/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
