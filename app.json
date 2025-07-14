@@ -1,7 +1,8 @@
+
 {
   "name": "AWAIS-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ",
-  "logo": "https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg",
+  "logo": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +17,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg"
+      "value": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg"
     }, 
     
     "OWNER_NUMBER": {
       "description": "BOT OWNER NUMBER",
       "required": false,
-      "value": "9231463"
+      "value": "9231828"
     },
     
     "OWNER_NAME": {
@@ -34,7 +35,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "•𝐀𝐖𝐀𝐈𝐒 𝗝𝐔𝐓𝐓⁶¹⁰"
+      "value": "•°- ß Ə ʌ υ ʈ ı ƒ υ ɭ - °•🩷🌸🤤.!!"
     },
     
     "HEART_REACT": {
