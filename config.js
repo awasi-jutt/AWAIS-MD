@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
@@ -7,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "qoAjWYYJ#NSgmwfJActBhpL16I3wtltPrI5BEfiNUICVQmxEdPBA",
     HEART_REACT: process.env.HEART_REACT || "false",
     CAPTION: process.env.CAPTION || "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
@@ -22,7 +21,7 @@ module.exports = {
     PACKNAME: (process.env.PACK_INFO?.split(';') || [])[1] || '923182832887',
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AWAIS-MD WHATSAPP BOT 😊♻️",
+    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AWAIS-MD WHATSAPP BOT 😊",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "false",
     PREFIX: process.env.PREFIX || "/",
