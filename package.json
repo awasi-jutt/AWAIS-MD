@@ -4,9 +4,9 @@
   "description": "A WhatsApp bot created by Awais using Node.js",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name AWAIS-MD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name AWAIS-MD-V3",
     "stop": "pm2 stop AWAIS-MD-V3",
-    "restart": "pm2 restart AWAIS-MD"
+    "restart": "pm2 restart AWAIS-MD-V3"
   },
   "engines": {
     "node": ">=22.16.0",
